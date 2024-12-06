@@ -52,7 +52,7 @@
 <a href="https://twitter.com/_sourabh_singh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sourabh_singh1" height="30" width="40" />  &nbsp;&nbsp;</a>
 <a href="https://linkedin.com/in/sourabhsingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhsingh1" height="30" width="40" /> &nbsp;&nbsp;</a>
 <a href="https://instagram.com/_sourabh_singh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sourabh_singh_18" height="30" width="40" /> &nbsp;&nbsp;</a>
-<a href="https://www.hackerrank.com/@sourabhnew01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourabhnew01" height="30" width="40" /> &nbsp;&nbsp;</a>
+<a href="https://www.hackerrank.com/sourabhnew01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourabhnew01" height="30" width="40" /> &nbsp;&nbsp;</a>
 <a href="https://www.leetcode.com/sourabh_singh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh_singh_01" height="30" width="40" /></a>
 </p>
 
