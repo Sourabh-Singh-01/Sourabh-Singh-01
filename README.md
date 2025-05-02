@@ -29,9 +29,7 @@
 <h2 align="center">🔍 Data Science Learning Path 🔍</h2>
 
 - **Programming**: Learning Python for Data Science
-- **Data Analysis**: Getting started with Pandas and NumPy
-- **Visualization**: Exploring Matplotlib and Seaborn
-- **Machine Learning**: Studying the fundamentals and algorithms
+
 
 <br/>
 <h3 align="left">Connect with me:</h3>
